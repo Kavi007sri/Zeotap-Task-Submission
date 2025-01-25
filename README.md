@@ -3,7 +3,7 @@
 This repository contains my solution for the Zeotap Internship Data Science assignment. The assignment involves working with an eCommerce transactions dataset to perform Exploratory Data Analysis (EDA), build a Lookalike Model, and implement Customer Segmentation using clustering techniques.
 
 ## Table of Contents
-1. [Task 1: Exploratory Data Analysis (EDA) and Business Insights](#Task 1: Exploratory Data Analysis (EDA) and Business Insights)
+1. [Task 1: Exploratory Data Analysis (EDA) and Business Insights](#task1)
 2. [Task 2: Lookalike Model](#task-2)
 3. [Task 3: Customer Segmentation / Clustering](#task-3)
 4. [File Naming Convention](#file-naming-convention)
